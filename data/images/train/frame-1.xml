@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>frame-1.png</filename>
+	<path>/Users/jawadzaheer/Desktop/TensorFlow/workspace-2/images/train/frame-1.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>van</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>330</xmin>
+			<ymin>370</ymin>
+			<xmax>639</xmax>
+			<ymax>554</ymax>
+		</bndbox>
+	</object>
+</annotation>
