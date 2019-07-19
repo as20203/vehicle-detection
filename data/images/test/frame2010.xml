@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>frame2010.jpg</filename>
+	<path>/Users/jawadzaheer/Desktop/images/test/frame2010.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1038</xmin>
+			<ymin>16</ymin>
+			<xmax>1161</xmax>
+			<ymax>145</ymax>
+		</bndbox>
+	</object>
+</annotation>
