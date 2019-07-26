@@ -1,26 +1,26 @@
 <annotation>
 	<folder>train</folder>
 	<filename>frame1518.jpg</filename>
-	<path>/Users/jawadzaheer/Desktop/images2/train/frame1518.jpg</path>
+	<path>/Users/jawadzaheer/Desktop/images3/train/frame1518.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>1024</width>
-		<height>768</height>
+		<width>1280</width>
+		<height>720</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>truck</name>
+		<name>car</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>640</xmin>
-			<ymin>91</ymin>
-			<xmax>940</xmax>
-			<ymax>564</ymax>
+			<xmin>273</xmin>
+			<ymin>254</ymin>
+			<xmax>534</xmax>
+			<ymax>500</ymax>
 		</bndbox>
 	</object>
 </annotation>

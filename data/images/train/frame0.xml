@@ -1,13 +1,13 @@
 <annotation>
 	<folder>train</folder>
 	<filename>frame0.jpg</filename>
-	<path>/Users/jawadzaheer/Desktop/images2/train/frame0.jpg</path>
+	<path>/Users/jawadzaheer/Desktop/images3/train/frame0.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>1024</width>
-		<height>768</height>
+		<width>1280</width>
+		<height>720</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,46 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>96</xmin>
-			<ymin>398</ymin>
-			<xmax>319</xmax>
-			<ymax>703</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>car</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>260</xmin>
-			<ymin>288</ymin>
-			<xmax>367</xmax>
-			<ymax>379</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>car</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>348</xmin>
-			<ymin>188</ymin>
-			<xmax>443</xmax>
-			<ymax>297</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>truck</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>627</xmin>
-			<ymin>100</ymin>
-			<xmax>917</xmax>
-			<ymax>534</ymax>
+			<xmin>269</xmin>
+			<ymin>196</ymin>
+			<xmax>416</xmax>
+			<ymax>370</ymax>
 		</bndbox>
 	</object>
 </annotation>
